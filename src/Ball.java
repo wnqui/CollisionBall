@@ -73,7 +73,7 @@ public class Ball {
 		// 移動
 		this.x += dx;
 		this.y += dy;
-		// 移動速度補正
+		
 
 	}
 	//邊境檢查
